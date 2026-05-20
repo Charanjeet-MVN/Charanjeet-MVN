@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Charanjeet-MVN/Charanjeet-MVN/blob/main/Github_banner.jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/Charanjeet-MVN/Charanjeet-MVN/blob/main/Github_Banner1.jpeg" alt="Banner" width="100%" />
 </p>
 # 💫 About Me:
 🔭 I’m currently working on beginner-friendly AI/ML and Python projects<br><br>👯 I’m looking to collaborate on student developer and open-source projects<br><br>🤝 I’m looking for help with improving my Machine Learning and DSA skills<br><br>🌱 I’m currently learning Python, Machine Learning, and Data Structures & Algorithms<br><br>💬 Ask me about Java, Python basics, beginner AI/ML projects, and GitHub<br><br>⚡ Fun fact: I enjoy turning ideas into projects and learning by building
